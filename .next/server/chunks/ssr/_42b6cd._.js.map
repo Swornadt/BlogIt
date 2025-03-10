@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/Admin/Documents/MERN/blogApp/components/dashboard/left-sidebar.tsx"],"sourcesContent":["import React from 'react';\r\n\r\nconst LeftSidebar = () => {\r\n    return (\r\n        <div>\r\n            left\r\n        </div>\r\n    );\r\n}\r\n\r\nexport default LeftSidebar;\r\n"],"names":[],"mappings":";;;;;AAEA,MAAM,cAAc;IAChB,qBACI,8OAAC;kBAAI;;;;;;AAIb;uCAEe"}},
+    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 28, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/Admin/Documents/MERN/blogApp/src/app/dashboard/layout.tsx"],"sourcesContent":["import React from 'react';\r\nimport LeftSidebar from '../../../components/dashboard/left-sidebar';\r\n\r\nconst Layout = ({children}:{children:React.ReactNode}) => {\r\n    return (\r\n        <div className='min-h-screen w-full'>\r\n            <div className='flex'>\r\n                <LeftSidebar/>\r\n                <div className='flex-1'>\r\n                    {children}\r\n                </div>\r\n            </div>\r\n        </div>\r\n    );\r\n}\r\n\r\nexport default Layout;\r\n"],"names":[],"mappings":";;;;AACA;;;AAEA,MAAM,SAAS,CAAC,EAAC,QAAQ,EAA4B;IACjD,qBACI,8OAAC;QAAI,WAAU;kBACX,cAAA,8OAAC;YAAI,WAAU;;8BACX,8OAAC,2IAAA,CAAA,UAAW;;;;;8BACZ,8OAAC;oBAAI,WAAU;8BACV;;;;;;;;;;;;;;;;;AAKrB;uCAEe"}},
+    {"offset": {"line": 67, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

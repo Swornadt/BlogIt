@@ -1,0 +1,17 @@
+/* [project]/src/global.css [app-client] (css) */
+@keyframes spin {
+  from {
+    transform: rotate(0);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.custom-spin {
+  animation: 1s linear infinite spin !important;
+}
+
+
+/*# sourceMappingURL=src_global_4e2be0.css.map*/

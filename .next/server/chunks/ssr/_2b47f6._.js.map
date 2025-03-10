@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/Admin/Documents/MERN/blogApp/components/articles/create-articles-page.tsx"],"sourcesContent":["import React from 'react';\r\n\r\nconst CreateArticlesPage = () => {\r\n    return (\r\n        <div>\r\n            create articles\r\n        </div>\r\n    );\r\n}\r\n\r\nexport default CreateArticlesPage;\r\n"],"names":[],"mappings":";;;;;AAEA,MAAM,qBAAqB;IACvB,qBACI,8OAAC;kBAAI;;;;;;AAIb;uCAEe"}},
+    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 28, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/Admin/Documents/MERN/blogApp/src/app/dashboard/articles/create/page.tsx"],"sourcesContent":["import CreateArticlesPage from '@/components/articles/create-articles-page';\r\nimport React from 'react';\r\n\r\nconst Page = () => {\r\n    return (\r\n        <div>\r\n            <CreateArticlesPage/>\r\n        </div>\r\n    );\r\n}\r\n\r\nexport default Page;\r\n"],"names":[],"mappings":";;;;AAAA;;;AAGA,MAAM,OAAO;IACT,qBACI,8OAAC;kBACG,cAAA,8OAAC,qJAAA,CAAA,UAAkB;;;;;;;;;;AAG/B;uCAEe"}},
+    {"offset": {"line": 49, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
